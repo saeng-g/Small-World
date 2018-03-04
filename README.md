@@ -1,7 +1,8 @@
 # Small-World
 
-Done for a class project. <a href="https://www.daysofwonder.com/smallworld/en/">Official game information</a>.
+This is a C++ implementation of a board game called Small World. It is being done for a class project. You can find the official information about the game <a href="https://www.daysofwonder.com/smallworld/en/">here</a>.
 
 Changelog:
-
-03 Mar 2018: Addition of Region, Map, Maploader, Deck, Power, Race, Player, Dice Classes (first draft)
+ <li>
+  03 Mar 2018: Addition of Region, Map, Maploader, Deck, Power, Race, Player, Dice Classes (first draft)
+ </li>
