@@ -4,5 +4,4 @@ Done for a class project. <a href="https://www.daysofwonder.com/smallworld/en/">
 
 Changelog:
 
-03 Mar 2018:
-<t> Addition of Region, Map, Maploader, Deck, Power, Race, Player, Dice Classes (first draft)
+03 Mar 2018:\n\tAddition of Region, Map, Maploader, Deck, Power, Race, Player, Dice Classes (first draft)
